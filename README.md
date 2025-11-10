@@ -1,2 +1,2 @@
-# monnelo-atelier-shop
+# monnelo
 E-commerce prototype for Monnelo Atelier.
